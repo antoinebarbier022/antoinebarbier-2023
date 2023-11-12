@@ -1,7 +1,7 @@
 :root{
   --color-accent: #7FA6F8;
   --color-text: rgba(255, 255, 255, 0.87);
-  --color-background: #242424;
+  --color-background: #050B1C;
 }
 
 @media (prefers-color-scheme: light) {
