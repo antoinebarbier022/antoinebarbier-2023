@@ -98,10 +98,9 @@
   svg {
     fill: var(--color-text);
   }
-  @media (prefers-color-scheme: light) {
-    svg path {
-      opacity: 0.2;
-    }
+
+  svg path {
+    opacity: 0.2;
   }
 
   h1 {
