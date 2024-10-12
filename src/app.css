@@ -1,16 +1,8 @@
-:root{
-  --color-accent: #7FA6F8;
-  --color-text: rgba(255, 255, 255, 0.87);
-  --color-background: #050B1C;
-}
-
-@media (prefers-color-scheme: light) {
   :root{
     --color-accent: #7FA6F8;
     --color-text: #213547;
     --color-background: #ffffff;
   }
-}
 
 :root {
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
